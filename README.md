@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyKim9401&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyKim9401&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyKim9401&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonyKim9401&theme=tokyonight&show_icons=true" />
 </a>
 
-# GitHub Profile
-
-## GitHub Streak
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyKim9401&theme=tokyonight" style="width: 100%;">
 </a>
@@ -34,5 +31,5 @@ Here are some ideas to get you started:
 
 ## Trophies
 <a href="https://github.com/TonyKim9401/">
-  <img src="https://github-profile-trophy.vercel.app/?username=TonyKim9401&theme=flat&column=7" style="width: 100%;">
+  <img src="https://github-profile-trophy.vercel.app/?username=TonyKim9401&theme=flat&column=6" style="width: 100%;">
 </a>
