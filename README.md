@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Frog%20Pond&fontSize=90)
 
 <!--
 **TonyKim9401/TonyKim9401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyKim9401&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyKim9401&theme=tokyonight&show_icons=true" />
+<a href="s" style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyKim9401&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" style="width: 50%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TonyKim9401&theme=tokyonight&show_icons=true" style="width: 50%; height: auto;"/>
 </a>
+
 
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyKim9401&theme=tokyonight" style="width: 100%;">
