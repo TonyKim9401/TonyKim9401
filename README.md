@@ -14,19 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; align-items: center;">
-  <a href="s" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyKim9401&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" style="width: 100%; height: 120px;"/>
-  </a>
-  <a href="s" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=TonyKim9401&theme=tokyonight&show_icons=true" style="width: 100%; height: 120px;"/>
-  </a>
-</div>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyKim9401&theme=tokyonight" style="width: 100%; height: 150px;">
-</a>
-
 ## Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyKim9401&theme=nord_dark" style="width: 100%;">
 
