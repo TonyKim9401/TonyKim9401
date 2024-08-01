@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyKim9401&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonyKim9401&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+<img src="https://raw.githubusercontent.com/TonyKim9401/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
