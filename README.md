@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="s" style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyKim9401&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" style="width: 50%; height: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyKim9401&theme=tokyonight&show_icons=true" style="width: 50%; height: auto;"/>
-</a>
+<div style="display: flex;">
+  <a href="s" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyKim9401&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" style="width: 100%; height: auto;"/>
+  </a>
+  <a href="s" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=TonyKim9401&theme=tokyonight&show_icons=true" style="width: 100%; height: auto;"/>
+  </a>
+</div>
+
 
 
 <a href="https://git.io/streak-stats">
