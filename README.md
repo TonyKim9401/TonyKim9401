@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyKim9401&theme=nord_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TonyKim9401&theme=flat&column=7)](https://github.com/dkssud8150/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TonyKim9401&theme=flat&column=7)](https://github.com/TonyKim9401/)
