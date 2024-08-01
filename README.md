@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
   <a href="s" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyKim9401&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" style="width: 100%; height: 200px; object-fit: contain;"/>
-  </a>
-  <a href="s" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=TonyKim9401&theme=tokyonight&show_icons=true" style="width: 100%; height: 200px; object-fit: contain;"/>
   </a>
 
