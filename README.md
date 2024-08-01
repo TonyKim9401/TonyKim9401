@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyKim9401&theme=tokyonight" style="width: 100%; height: 200px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyKim9401&theme=tokyonight" style="width: 100%;">
 </a>
 
 ## Profile Summary
