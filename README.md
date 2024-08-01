@@ -22,10 +22,17 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=TonyKim9401&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonyKim9401&theme=tokyonight)](https://git.io/streak-stats)
+# GitHub Profile
 
-<img src="https://raw.githubusercontent.com/TonyKim9401/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+## GitHub Streak
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyKim9401&theme=tokyonight" style="width: 100%;">
+</a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyKim9401&theme=nord_dark)
+## Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TonyKim9401&theme=nord_dark" style="width: 100%;">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TonyKim9401&theme=flat&column=7)](https://github.com/TonyKim9401/)
+## Trophies
+<a href="https://github.com/TonyKim9401/">
+  <img src="https://github-profile-trophy.vercel.app/?username=TonyKim9401&theme=flat&column=7" style="width: 100%;">
+</a>
