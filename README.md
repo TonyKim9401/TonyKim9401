@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ## Trophies
 <a href="https://github.com/TonyKim9401/">
-  <img src="https://github-profile-trophy.vercel.app/?username=TonyKim9401&theme=flat&column=8" style="width: 100%;">
+  <img src="https://github-profile-trophy.vercel.app/?username=TonyKim9401&theme=flat&column=9" style="width: 100%;">
 </a>
